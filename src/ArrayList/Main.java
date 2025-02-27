@@ -41,7 +41,7 @@ public class Main {
         System.out.println(numeros.contains(valor) ? "Valor contido na lista" : "Valor não encontrado!");
 
         for (Integer numero : numeros){
-            System.out.print(numero + "\t");
+            System.out.print(numero + "\t\t");
 
         }
 

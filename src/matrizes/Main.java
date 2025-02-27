@@ -24,7 +24,7 @@ public class Main {
 
         for (int linha = 0; linha < matriz.length; linha++){
             for (int coluna = 0; coluna < matriz[0].length; coluna++){
-                System.out.println(matriz[linha][coluna] + "\t");
+                System.out.println(matriz[linha][coluna] + "\t\t");
             }
             System.out.println(matriz);
             System.out.println(linha);
