@@ -1,8 +1,8 @@
-package Vetores;
+package vetores;
 
 import java.util.Scanner;
 
-public class HandsOn {
+public class handsOn {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
 
